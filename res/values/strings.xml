@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Ultimate Stopwatch</string>
+    <string name="alternate_title">An alternate title that is long</string>
+    <string name="toggle_title">Toggle title</string>
+    <string name="menu_refresh">Refresh</string>
+    <string name="menu_search">Search</string>
+    <string name="menu_share">Share</string>
+    <string name="message_stopped">Stopped</string>
+    <string name="timer_title">Set Countdown Timer</string>
+    <string name="timer_start">Start</string>
+    <string name="timer_cancel">Cancel</string>
+    <string name="save_time">save time</string>
+    <string name="splittimes">Split Times</string>
+    <string name="laptimes">Lap Times</string>
+    <string name="lap_time_recorded">Lap Time Recorded</string>
+    <string name="reset">Reset</string>
+    <string name="clear">Clear</string>
+    <string name="mode">Mode</string>
+    <string name="stopwatch">Stopwatch</string>
+    <string name="countdown">Countdown</string>
+    <string name="hours">Hours</string>
+    <string name="mins">Mins</string>
+    <string name="secs">Secs</string>
+    <string name="countdown_complete">Countdown Complete!</string>
+    <string name="default_time">00:00:00.000</string>
+    <string name="_0">0</string>
+    <string name="times">Times</string>
+    <string name="reset_button">Reset Button</string>
+    <string name="clear_laps">Clear Laps</string>
+</resources>

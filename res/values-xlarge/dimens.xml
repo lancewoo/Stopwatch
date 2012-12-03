@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="frame_padding">1.0dip</dimen>
+    <dimen name="small_font">16.0dip</dimen>
+    <dimen name="med_font">28.0dip</dimen>
+    <dimen name="large_font">36.0dip</dimen>
+    <dimen name="counter_font">80.0sp</dimen>
+    <dimen name="reset_btn_size">72.0dip</dimen>
+</resources>

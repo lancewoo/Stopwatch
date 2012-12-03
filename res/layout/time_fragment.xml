@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center" android:orientation="vertical" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <TextView android:textSize="@dimen/counter_font" android:textColor="@color/text_grey" android:id="@id/counter_digits" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/default_time" />
+    <TextView android:textSize="@dimen/small_font" android:textColor="@color/text_grey" android:id="@id/timefrag_savetext" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/save_time" />
+</LinearLayout>

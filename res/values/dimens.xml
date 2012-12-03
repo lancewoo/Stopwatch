@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="actionbar_compat_height">48.0dip</dimen>
+    <dimen name="actionbar_compat_button_width">48.0dip</dimen>
+    <dimen name="actionbar_compat_button_home_width">56.0dip</dimen>
+    <dimen name="frame_padding">1.0dip</dimen>
+    <dimen name="small_font">14.0sp</dimen>
+    <dimen name="med_font">22.0sp</dimen>
+    <dimen name="large_font">36.0dip</dimen>
+    <dimen name="counter_font">50.0sp</dimen>
+    <dimen name="launchtext_size">32.0sp</dimen>
+    <dimen name="reset_btn_size">72.0dip</dimen>
+</resources>

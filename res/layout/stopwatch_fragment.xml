@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout android:background="@color/background" android:layout_width="fill_parent" android:layout_height="fill_parent"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <com.geekyouup.android.ustopwatch.fragments.StopwatchView android:id="@id/swview" android:layout_width="fill_parent" android:layout_height="fill_parent" />
+    <ImageView android:id="@id/resetButton" android:paddingTop="5.0dip" android:layout_width="@dimen/reset_btn_size" android:layout_height="@dimen/reset_btn_size" android:src="@drawable/resetbutton_selector" android:layout_alignParentTop="true" android:layout_alignParentRight="true" android:contentDescription="@string/reset_button" />
+</RelativeLayout>

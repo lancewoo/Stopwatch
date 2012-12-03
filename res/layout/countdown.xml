@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout android:gravity="center_horizontal" android:orientation="horizontal" android:id="@id/countdown" android:background="#ff444444" android:layout_width="wrap_content" android:layout_height="wrap_content"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="18.0sp" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/hours" />
+        <Button android:id="@id/hoursBtnUp" android:background="@drawable/timepicker_up_btn" android:layout_width="70.0dip" android:layout_height="wrap_content" />
+        <EditText android:textSize="30.0sp" android:gravity="center" android:id="@id/hoursTxt" android:layout_width="70.0dip" android:layout_height="wrap_content" android:text="@string/_0" android:inputType="number" />
+        <Button android:id="@id/hoursBtnDn" android:background="@drawable/timepicker_down_btn" android:layout_width="70.0dip" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="18.0sp" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/mins" />
+        <Button android:id="@id/minsBtnUp" android:background="@drawable/timepicker_up_btn" android:layout_width="70.0dip" android:layout_height="wrap_content" />
+        <EditText android:textSize="30.0sp" android:gravity="center" android:id="@id/minsTxt" android:layout_width="70.0dip" android:layout_height="wrap_content" android:text="@string/_0" android:inputType="number" />
+        <Button android:id="@id/minsBtnDn" android:background="@drawable/timepicker_down_btn" android:layout_width="70.0dip" android:layout_height="wrap_content" />
+    </LinearLayout>
+    <LinearLayout android:gravity="center_horizontal" android:orientation="vertical" android:layout_width="wrap_content" android:layout_height="wrap_content">
+        <TextView android:textSize="18.0sp" android:textColor="#ffffffff" android:layout_width="wrap_content" android:layout_height="wrap_content" android:text="@string/secs" />
+        <Button android:id="@id/secsBtnUp" android:background="@drawable/timepicker_up_btn" android:layout_width="70.0dip" android:layout_height="wrap_content" />
+        <EditText android:textSize="30.0sp" android:gravity="center" android:id="@id/secsTxt" android:layout_width="70.0dip" android:layout_height="wrap_content" android:text="@string/_0" android:inputType="number" />
+        <Button android:id="@id/secsBtnDn" android:background="@drawable/timepicker_down_btn" android:layout_width="70.0dip" android:layout_height="wrap_content" />
+    </LinearLayout>
+</LinearLayout>

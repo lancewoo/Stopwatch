@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item type="id" name="actionbar_compat" />
+    <item type="id" name="actionbar_compat_title" />
+    <item type="id" name="actionbar_compat_item_refresh_progress" />
+    <item type="id" name="actionbar_compat_item_refresh" />
+    <item type="id" name="menu_refresh" />
+    <item type="id" name="countdown">false</item>
+    <item type="id" name="hoursBtnUp">false</item>
+    <item type="id" name="hoursTxt">false</item>
+    <item type="id" name="hoursBtnDn">false</item>
+    <item type="id" name="minsBtnUp">false</item>
+    <item type="id" name="minsTxt">false</item>
+    <item type="id" name="minsBtnDn">false</item>
+    <item type="id" name="secsBtnUp">false</item>
+    <item type="id" name="secsTxt">false</item>
+    <item type="id" name="secsBtnDn">false</item>
+    <item type="id" name="numberPickerHours">false</item>
+    <item type="id" name="numberPickerMins">false</item>
+    <item type="id" name="numberPickerSecs">false</item>
+    <item type="id" name="laptime_text">false</item>
+    <item type="id" name="laptime_text2">false</item>
+    <item type="id" name="laptimes_stopwatchview">false</item>
+    <item type="id" name="laptimes_viewflipper">false</item>
+    <item type="id" name="laptimes_countdownview">false</item>
+    <item type="id" name="laptimes_fragment_from_layout">false</item>
+    <item type="id" name="stopwatch_fragment">false</item>
+    <item type="id" name="fragment_time">false</item>
+    <item type="id" name="laptimes_fragment">false</item>
+    <item type="id" name="swview">false</item>
+    <item type="id" name="resetButton">false</item>
+    <item type="id" name="counter_digits">false</item>
+    <item type="id" name="timefrag_savetext">false</item>
+    <item type="id" name="menu_switchmode">false</item>
+    <item type="id" name="menu_reset">false</item>
+    <item type="id" name="menu_search">false</item>
+    <item type="id" name="menu_share">false</item>
+    <item type="id" name="menu_laptimes">false</item>
+    <item type="id" name="menu_clearlaps">false</item>
+</resources>

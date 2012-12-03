@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest android:versionCode="33" android:versionName="5.0.2" android:installLocation="auto" package="com.geekyouup.android.ustopwatch"
+  xmlns:android="http://schemas.android.com/apk/res/android">
+    <uses-permission android:name="android.permission.WAKE_LOCK" />
+    <uses-permission android:name="android.permission.VIBRATE" />
+    <supports-screens android:smallScreens="true" android:normalScreens="true" android:largeScreens="true" android:xlargeScreens="true" />
+    <application android:theme="@style/AppTheme" android:label="@string/app_name" android:icon="@drawable/icon" android:debuggable="false" android:hardwareAccelerated="true">
+        <activity android:label="@string/app_name" android:name=".UltimateStopwatchActivity" android:windowSoftInputMode="adjustNothing">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:label="@string/app_name" android:name=".fragments.LapTimesActivity" android:windowSoftInputMode="adjustNothing" />
+        <service android:name=".AlarmUpdater$UpdateService" />
+    </application>
+</manifest>
