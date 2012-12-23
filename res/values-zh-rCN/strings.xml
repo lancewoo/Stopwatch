@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">终极秒表</string>
+    <string name="app_name">秒表</string>
     <string name="alternate_title">可选长标题</string>
     <string name="toggle_title">换标题</string>
     <string name="menu_refresh">刷新</string>
