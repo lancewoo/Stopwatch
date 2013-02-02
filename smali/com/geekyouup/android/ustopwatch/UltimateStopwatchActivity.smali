@@ -366,7 +366,10 @@
     move-result-object v6
 
     invoke-virtual {v2, v6}, Landroid/app/AlertDialog;->setTitle(Ljava/lang/CharSequence;)V
-
+############
+    invoke-virtual {v2, v7}, Landroid/app/AlertDialog;->setCancelable(Z)V
+    invoke-virtual {v2, v7}, Landroid/app/AlertDialog;->setCanceledOnTouchOutside(Z)V
+############
     .line 267
     const v6, 0x7f080008
 
