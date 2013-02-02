@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">秒錶</string>
+    <string name="alternate_title">可選長標題</string>
+    <string name="toggle_title">切換標題</string>
+    <string name="menu_refresh">刷新</string>
+    <string name="menu_search">搜索</string>
+    <string name="menu_share">分享</string>
+    <string name="message_stopped">已停止</string>
+    <string name="timer_title">設置計時器</string>
+    <string name="timer_start">啟動</string>
+    <string name="timer_cancel">取消</string>
+    <string name="save_time">保存時間</string>
+    <string name="splittimes">區分次數</string>
+    <string name="laptimes">跑圈次數</string>
+    <string name="lap_time_recorded">跑圈時間已記錄</string>
+    <string name="reset">重置</string>
+    <string name="clear">清除</string>
+    <string name="mode">模式</string>
+    <string name="stopwatch">秒錶</string>
+    <string name="countdown">倒計時</string>
+    <string name="hours">時</string>
+    <string name="mins">分</string>
+    <string name="secs">秒</string>
+    <string name="countdown_complete">倒計時結束！</string>
+    <string name="default_time">00:00:00.000</string>
+    <string name="_0">0</string>
+    <string name="times">次</string>
+    <string name="reset_button">重置按鈕</string>
+    <string name="clear_laps">清除跑圈</string>
+</resources>
